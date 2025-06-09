@@ -228,6 +228,7 @@ export default function Analytics({ data }) {
                   name="Complex"
                   dot={{ fill: "#7c3aed", strokeWidth: 2, r: 4 }}
                 />
+                
               </LineChart>
             </ResponsiveContainer>
           </div>
